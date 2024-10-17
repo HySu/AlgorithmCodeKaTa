@@ -1,8 +1,8 @@
-package AlgoritumCodeKaTa.Problem0001두수의합;
+package AlgoritumCodeKaTa.Problem0003몫구하기;
 
 public class Solution {
     public int solution(int num1, int num2) {
-        int answer = num1 + num2;
+        int answer = num1 / num2;
         return answer;
     }
 }
